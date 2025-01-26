@@ -14,10 +14,31 @@
   "contributes": {
     "commands": [
       {
-        "command": "servicemanager.helloWorld",
-        "title": "Hello World"
+        "command": "servicemanager.sm",
+        "title": "ServiceManager"
       }
-    ]
+    ],
+    "viewsContainers":{
+      "activitybar": [
+        {
+          "id": "package-explorer",
+          "title": "Package Explorer",
+          "icon": "resources/package-explorer.svg"
+        }
+      ]
+    },
+    "views":{
+      "package-explorer": [
+        {
+          "id": "package-dependencies",
+          "name": "Dependencies"
+        },
+        {
+          "id": "package-outline",
+          "name": "Outline"
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",

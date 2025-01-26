@@ -69,3 +69,16 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+
+## From Developer!
+
+* Added below extensions before starting developing
+    Azure App Service Extenstion
+    NPM Extension
+    VSCodeVIM
+
+
+* With Web view I am able to use and understand a little bit of HTML in VS Code
+    https://code.visualstudio.com/api/ux-guidelines/overview
+    Start with "https://code.visualstudio.com/api/extension-guides/webview#lifecycle"
