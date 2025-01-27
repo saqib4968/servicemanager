@@ -81,4 +81,5 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 * With Web view I am able to use and understand a little bit of HTML in VS Code
     https://code.visualstudio.com/api/ux-guidelines/overview
-    Start with "https://code.visualstudio.com/api/extension-guides/webview#lifecycle"
+    Start with "https://code.visualstudio.com/api/extension-guides/webview#passing-messages-from-an-extension-to-a-webview"
+

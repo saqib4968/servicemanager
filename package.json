@@ -16,6 +16,10 @@
       {
         "command": "servicemanager.sm",
         "title": "ServiceManager"
+      },
+      {
+        "command": "servicemanager.doRefactor",
+        "title": "ServiceManager: DoRefactor"
       }
     ],
     "viewsContainers":{
